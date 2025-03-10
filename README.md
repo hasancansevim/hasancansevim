@@ -33,6 +33,6 @@
 
 ### 📫 Bana Ulaşın  
 
-- **E-posta**: [hasancansevim@example.com](mailto:hasancansevim@example.com)  
+- **E-posta**: [shasancan0@gmail.com](mailto:hasancansevim@example.com)  
 - **LinkedIn**: [linkedin.com/in/hasancansevim](https://www.linkedin.com/in/hasancansevim)  
 - **Instagram**: [@sevmhasancan](https://www.instagram.com/sevmhasancan)  
