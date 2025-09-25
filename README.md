@@ -29,7 +29,7 @@
 
 ### 📈 GitHub İstatistiklerim  
 
-![Hasan Can Sevim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svmhasancan&show_icons=true&theme=radical)  
+![Hasan Can Sevim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancansevim&show_icons=true&theme=radical)  
 
 ### 📫 Bana Ulaşın  
 
