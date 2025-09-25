@@ -7,8 +7,8 @@
 
 ### 🚀 Öne Çıkan Projeler
 
-- [**Yalın.com**](https://github.com/svmhasancan/YalinNews): Kısa ve öz haberler sunan bir haber platformu.  
-- [**CarRental**](https://github.com/svmhasancan/CarRental): Araç kiralama sistemini yöneten bir web uygulaması.  
+- [**Yalın.com**](https://github.com/hasancansevim/YalinNews): Kısa ve öz haberler sunan bir haber platformu.  
+- [**CarRental**](https://github.com/hasancansevim/CarRental): Araç kiralama sistemini yöneten bir web uygulaması.  
 
 ### 🛠️ Kullandığım Teknolojiler  
 
