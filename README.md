@@ -2,12 +2,13 @@
 
 - 🎓 **Eğitim**: Eskişehir Osmangazi Üniversitesi - Matematik ve Bilgisayar Bilimleri  
 - 🌍 **Konum**: Ankara, Türkiye  
-- 💼 **Çalışma Alanları**: Yazılım Geliştirme, Veri Analizi, Web Teknolojileri  
-- 💬 **İlgi Alanları**: Açık Kaynak Projeler, Yapay Zeka, Makine Öğrenimi  
+- 💼 **Çalışma Alanları**: Yazılım Geliştirme, Web Teknolojileri  
+- 💬 **İlgi Alanları**: Açık Kaynak Projeler
 
 ### 🚀 Öne Çıkan Projeler
 
-- [**Yalın.com**](https://github.com/hasancansevim/YalinNews): Kısa ve öz haberler sunan bir haber platformu.  
+- [**Yalın.com**](https://github.com/hasancansevim/YalinNews): Kısa ve öz haberler sunan bir haber platformu.
+- [**ecommerce-service**](https://github.com/hasancansevim/ecommerce-service) E Commerce Service
 - [**CarRental**](https://github.com/hasancansevim/CarRental): Araç kiralama sistemini yöneten bir web uygulaması.  
 
 ### 🛠️ Kullandığım Teknolojiler  
@@ -15,7 +16,8 @@
 **Programlama Dilleri**  
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
 **Frameworkler ve Kütüphaneler**  
 
@@ -24,8 +26,8 @@
 
 **Veritabanları**  
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 📈 GitHub İstatistiklerim  
 
