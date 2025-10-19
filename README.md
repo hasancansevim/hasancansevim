@@ -29,10 +29,6 @@
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### 📈 GitHub İstatistiklerim  
-
-![Hasan Can Sevim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancansevim&show_icons=true&theme=radical)  
-
 ### 📫 Bana Ulaşın  
 
 - **E-posta**: [shasancan0@gmail.com](mailto:hasancansevim@example.com)  
