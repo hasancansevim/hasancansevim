@@ -1,36 +1,58 @@
-## Merhaba! Ben Hasan Can Sevim
+<div align="center">
 
-- 🎓 **Eğitim**: Eskişehir Osmangazi Üniversitesi - Matematik ve Bilgisayar Bilimleri  
-- 🌍 **Konum**: Ankara, Türkiye  
-- 💼 **Çalışma Alanları**: Yazılım Geliştirme, Web Teknolojileri  
-- 💬 **İlgi Alanları**: Açık Kaynak Projeler
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Hasan+Can;Mathematics+%26+CS+Student;Backend+Developer+(Go+%26+.NET);Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 
-### 🚀 Öne Çıkan Projeler
+  <p>
+    👋 <b>Eskişehir Osmangazi Üniversitesi</b>'nde Matematik ve Bilgisayar Bilimleri öğrencisiyim.<br>
+    🚀 <b>Web Teknolojileri</b>, <b>Backend Mimarileri</b> ve <b>Mikroservisler</b> üzerine yoğunlaşıyorum.<br>
+    🌍 Şu an <b>Ankara/Eskişehir</b>, Türkiye konumundayım.
+  </p>
 
-- [**Yalın.com**](https://github.com/hasancansevim/YalinNews): Kısa ve öz haberler sunan bir haber platformu.
-- [**ecommerce-service**](https://github.com/hasancansevim/ecommerce-service) E Commerce Service
-- [**CarRental**](https://github.com/hasancansevim/CarRental): Araç kiralama sistemini yöneten bir web uygulaması.  
+  <p>
+    <a href="mailto:shasancan03@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/hasancansevim">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/sevimhasancan">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
-### 🛠️ Kullandığım Teknolojiler  
+  ---
 
-**Programlama Dilleri**  
+  ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,cs,dotnet,angular,ts,postgres,docker,git,postman&perline=6" />
+    </a>
+  </p>
 
-**Frameworkler ve Kütüphaneler**  
+  ---
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+  ### 📊 GitHub İstatistiklerim
 
-**Veritabanları**  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hasancansevim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancansevim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+  </div>
 
-![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ---
 
-### 📫 Bana Ulaşın  
+  ### 🚀 Öne Çıkan Projelerim
 
-- **E-posta**: [shasancan0@gmail.com](mailto:hasancansevim@example.com)  
-- **LinkedIn**: [linkedin.com/in/hasancansevim](https://www.linkedin.com/in/hasancansevim)  
-- **Instagram**: [@sevmhasancan](https://www.instagram.com/sevmhasancan)  
+  | Proje Adı | Açıklama | Teknoloji |
+  | :--- | :--- | :--- |
+  | **🛍️ E-Commerce Service** | Mikroservis mimarisi ile geliştirilmiş e-ticaret altyapısı. | `Go`, `gRPC`, `PostgreSQL` |
+  | **📰 YalinNews** | Kısa ve öz haberler sunan modern bir haber platformu. | `.NET Core`, `C#`, `SQL` |
+  | **🚗 CarRental** | Araç kiralama süreçlerini yöneten tam kapsamlı backend. | `.NET`, `Angular`, `Clean Arch` |
+
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancansevim&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+
+</div>
