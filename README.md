@@ -11,13 +11,13 @@
   </p>
 
   <p>
-    <a href="mailto:shasancan03@gmail.com">
+    <a href="mailto:shasancan0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/hasancansevim">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/sevimhasancan">
+    <a href="https://instagram.com/sevmhasancan">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -28,7 +28,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,cs,dotnet,angular,ts,postgres,docker,git,postman&perline=6" />
+      <img src="https://skillicons.dev/icons?i=go,cs,dotnet,angular,ts,postgres,docker,git" />
     </a>
   </p>
 
@@ -50,9 +50,5 @@
   | **🛍️ E-Commerce Service** | Mikroservis mimarisi ile geliştirilmiş e-ticaret altyapısı. | `Go`, `gRPC`, `PostgreSQL` |
   | **📰 YalinNews** | Kısa ve öz haberler sunan modern bir haber platformu. | `.NET Core`, `C#`, `SQL` |
   | **🚗 CarRental** | Araç kiralama süreçlerini yöneten tam kapsamlı backend. | `.NET`, `Angular`, `Clean Arch` |
-
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancansevim&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
 
 </div>
