@@ -1,13 +1,13 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Hasan+Can;Mathematics+%26+CS+Student;Backend+Developer+(Go+%26+.NET);Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello!+I'm+Hasan+Can;Mathematics+%26+CS+Student;Backend+Developer+(Go+%26+.NET);Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p>
-    👋 <b>Eskişehir Osmangazi Üniversitesi</b>'nde Matematik ve Bilgisayar Bilimleri öğrencisiyim.<br>
-    🚀 <b>Web Teknolojileri</b>, <b>Backend Mimarileri</b> ve <b>Mikroservisler</b> üzerine yoğunlaşıyorum.<br>
-    🌍 Şu an <b>Ankara/Eskişehir</b>, Türkiye konumundayım.
+    👋 I'm a Mathematics and Computer Science student at <b>Eskişehir Osmangazi University</b>.<br>
+    🚀 Focusing on <b>Web Technologies</b>, <b>Backend Architectures</b>, and <b>Microservices</b>.<br>
+    🌍 Currently based in <b>Ankara/Eskişehir</b>, Turkey.
   </p>
 
   <p>
@@ -24,7 +24,7 @@
 
   ---
 
-  ### 🛠️ Kullandığım Teknolojiler ve Araçlar
+  ### 🛠️ Technologies & Tools I Use
 
   <p>
     <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@
 
   ---
 
-  ### 📊 GitHub İstatistiklerim
+  ### 📊 My GitHub Stats
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hasancansevim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
@@ -43,12 +43,12 @@
 
   ---
 
-  ### 🚀 Öne Çıkan Projelerim
+  ### 🚀 Featured Projects
 
-  | Proje Adı | Açıklama | Teknoloji |
+  | Project Name | Description | Technology |
   | :--- | :--- | :--- |
-  | **🛍️ E-Commerce Service** | Mikroservis mimarisi ile geliştirilmiş e-ticaret altyapısı. | `Go`, `gRPC`, `PostgreSQL` |
-  | **📰 YalinNews** | Kısa ve öz haberler sunan modern bir haber platformu. | `.NET Core`, `C#`, `SQL` |
-  | **🚗 CarRental** | Araç kiralama süreçlerini yöneten tam kapsamlı backend. | `.NET`, `Angular`, `Clean Arch` |
+  | **🛍️ E-Commerce Service** | E-commerce infrastructure built with microservices architecture. | `Go`, `gRPC`, `PostgreSQL` |
+  | **📰 YalinNews** | A modern news platform providing short and concise news. | `.NET Core`, `C#`, `SQL` |
+  | **🚗 CarRental** | Comprehensive backend managing car rental processes. | `.NET`, `Angular`, `Clean Arch` |
 
 </div>
